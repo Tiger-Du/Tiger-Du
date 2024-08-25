@@ -1,4 +1,6 @@
-Solving the Schrodinger Equation via Physics Informed Machine Learning
+#### Solving the Schrodinger Equation via Physics Informed Machine Learning
+
+---
 
 Interested in ...
 
