@@ -1,4 +1,4 @@
-### Project: Solving the Schrödinger Equation via Physics Informed Machine Learning
+### Solving the Schrödinger Equation via Physics Informed Machine Learning
 
 __Repository__: [SE-PINN](https://github.com/Tiger-Du/SE-PINN)
 
