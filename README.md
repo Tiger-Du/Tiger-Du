@@ -2,11 +2,11 @@
 
 | **Figure 1**: No Enforcement of Exact Symmetry via Architecture |
 | --- |
-| ![Animation of PINN](https://github.com/Tiger-Du/SE-PINN/assets/no_enforcement_of_symmetry.gif) |
+| ![Animation of PINN](https://github.com/Tiger-Du/SE-PINN/blob/main/assets/no_enforcement_of_symmetry.gif) |
 
 | **Figure 2**: Enforcement of Exact Symmetry via Architecture |
 | --- |
-| ![Animation of PINN](https://github.com/Tiger-Du/SE-PINN/assets/enforcement_of_symmetry.gif) |
+| ![Animation of PINN](https://github.com/Tiger-Du/SE-PINN/blob/main/assets/enforcement_of_symmetry.gif) |
 
 ---
 
